@@ -1,0 +1,14 @@
+---
+title: "About"
+---
+
+## About Me
+
+I am a PhD student in Health Services Research with interests in health economics, insurance markets, and provider competition.
+
+## Research Interests
+
+- Health insurance and provider pricing
+- Employer-sponsored insurance
+- Hospital market structure
+- Health policy evaluation

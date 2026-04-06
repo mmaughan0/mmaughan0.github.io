@@ -1,0 +1,13 @@
+## Current Projects
+
+::: {.grid}
+::: {.g-col-6}
+### Insurance Markets
+Research on employer-sponsored insurance and hospital pricing.
+:::
+
+::: {.g-col-6}
+### Policy Evaluation
+Work on state and federal payment reforms.
+:::
+:::
